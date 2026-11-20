@@ -17,8 +17,8 @@ This project delivers a comprehensive clinical data analysis of Obsessive-Compul
 ## Repository Structure
 
 
-├── 01_schema_setup.sql      # Database initialization, table DDL creation, and charset configuration
-├── 02_data_cleaning.sql     # NULL value auditing, data hygiene queries, and missing record checks
-├── 03_clinical_queries.sql   # Execution of 15 advanced clinical business queries (window functions, CTEs)
-└── README.md                # Project documentation and summary findings
+├── 01_schema_setup.sql            # Database initialization, table DDL creation, and charset configuration
+├── 02_data_cleaning.sql           # NULL value auditing, data hygiene queries, and missing record checks
+├── 03_clinical_queries.sql        # Execution of 15 advanced clinical business queries (window functions, CTEs)
+└── README.md                      # Project documentation and summary findings
 
