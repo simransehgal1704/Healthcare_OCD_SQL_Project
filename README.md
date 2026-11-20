@@ -21,4 +21,4 @@ This project delivers a comprehensive clinical data analysis of Obsessive-Compul
 ├── 02_data_cleaning.sql     # NULL value auditing, data hygiene queries, and missing record checks
 ├── 03_clinical_queries.sql   # Execution of 15 advanced clinical business queries (window functions, CTEs)
 └── README.md                # Project documentation and summary findings
-# healthcare-ocd-sql-analysis
+
